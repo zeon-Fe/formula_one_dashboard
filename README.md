@@ -5,7 +5,7 @@ It visualizes key insights into drivers, constructors, circuits, and historical 
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 <table>
   <tr>
